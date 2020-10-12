@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pangenomics <font color='black'>[closed]</font>"
+title:  "Pangenomics <font color='green'>[open]</font>"
 date_start:   2019-12-14
 date_end:   2019-12-18
 venue: virtual
